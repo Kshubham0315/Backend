@@ -1,0 +1,12 @@
+{
+  "requestId": "req_1775810111564_jurkdk",
+  "createdAt": "2026-04-10T08:35:11.564Z",
+  "body": {
+    "message": "Hello, hello, hello."
+  },
+  "detectedLanguageMode": "english",
+  "audioConfig": {
+    "voiceId": "Natalie",
+    "locale": "en-US"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "requestId": "req_1775805338645_ijalk0",
+  "createdAt": "2026-04-10T07:15:38.646Z",
+  "body": {
+    "message": "I have fever and headache from two days",
+    "hasMedicalImage": false,
+    "imageContext": ""
+  },
+  "detectedLanguageMode": "english",
+  "audioConfig": {
+    "voiceId": "Natalie",
+    "locale": "en-US"
+  }
+}

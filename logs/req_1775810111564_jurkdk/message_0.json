@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Sanjeevni-AI\\r3f-virtual-girlfriend-backend\\logs\\req_1775810111564_jurkdk\\message_0.wav",
+    "duration": 2.41
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.19, "value": "X" },
+    { "start": 0.19, "end": 0.26, "value": "B" },
+    { "start": 0.26, "end": 0.32, "value": "C" },
+    { "start": 0.32, "end": 0.46, "value": "F" },
+    { "start": 0.46, "end": 0.53, "value": "E" },
+    { "start": 0.53, "end": 0.60, "value": "F" },
+    { "start": 0.60, "end": 0.77, "value": "B" },
+    { "start": 0.77, "end": 0.91, "value": "C" },
+    { "start": 0.91, "end": 1.12, "value": "F" },
+    { "start": 1.12, "end": 1.68, "value": "B" },
+    { "start": 1.68, "end": 1.75, "value": "F" },
+    { "start": 1.75, "end": 1.83, "value": "A" },
+    { "start": 1.83, "end": 2.04, "value": "C" },
+    { "start": 2.04, "end": 2.18, "value": "B" },
+    { "start": 2.18, "end": 2.41, "value": "X" }
+  ]
+}

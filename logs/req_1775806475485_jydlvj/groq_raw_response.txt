@@ -1,0 +1,9 @@
+{
+  "messages": [
+    {
+      "text": "Hello, how can I assist you today?",
+      "facialExpression": "default",
+      "animation": "Talking_0"
+    }
+  ]
+}

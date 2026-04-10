@@ -1,0 +1,26 @@
+{
+  "requestId": "req_1775806574749_c4kahi",
+  "createdAt": "2026-04-10T07:36:15.904Z",
+  "userMessage": "hii muje fever hai",
+  "hasMedicalImage": false,
+  "imageContext": "",
+  "languageMode": "hindi",
+  "rawGroqResponse": "{\n  \"messages\": [\n    {\n      \"text\": \"नमस्ते, बुखार होना कई कारणों से हो सकता है, जैसे कि वायरल संक्रमण या बैक्टीरियल संक्रमण।\",\n      \"facialExpression\": \"default\",\n      \"animation\": \"Talking_0\"\n    },\n    {\n      \"text\": \"आपको आराम करना चाहिए और पर्याप्त पानी पीना चाहिए। यदि बुखार अधिक है तो डॉक्टर से परामर्श लेना उचित होगा।\",\n      \"facialExpression\": \"smile\",\n      \"animation\": \"Talking_1\"\n    },\n    {\n      \"text\": \"डॉक्टर आपको परीक्षण कराने और उचित उपचार देने में मदद कर सकते हैं। घरेलू उपाय जैसे कि गर्म पानी से नहाना या गर्म चाय पीना भी मददगार हो सकते हैं।\",\n      \"facialExpression\": \"default\",\n      \"animation\": \"Talking_2\"\n    }\n  ]\n}",
+  "parsedMessages": [
+    {
+      "text": "नमस्ते, बुखार होना कई कारणों से हो सकता है, जैसे कि वायरल संक्रमण या बैक्टीरियल संक्रमण।",
+      "facialExpression": "default",
+      "animation": "Talking_0"
+    },
+    {
+      "text": "आपको आराम करना चाहिए और पर्याप्त पानी पीना चाहिए। यदि बुखार अधिक है तो डॉक्टर से परामर्श लेना उचित होगा।",
+      "facialExpression": "smile",
+      "animation": "Talking_1"
+    },
+    {
+      "text": "डॉक्टर आपको परीक्षण कराने और उचित उपचार देने में मदद कर सकते हैं। घरेलू उपाय जैसे कि गर्म पानी से नहाना या गर्म चाय पीना भी मददगार हो सकते हैं।",
+      "facialExpression": "default",
+      "animation": "Talking_2"
+    }
+  ]
+}

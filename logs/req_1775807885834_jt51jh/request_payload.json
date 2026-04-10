@@ -1,0 +1,12 @@
+{
+  "requestId": "req_1775807885834_jt51jh",
+  "createdAt": "2026-04-10T07:58:05.835Z",
+  "body": {
+    "message": "i am suffering from fever"
+  },
+  "detectedLanguageMode": "english",
+  "audioConfig": {
+    "voiceId": "Natalie",
+    "locale": "en-US"
+  }
+}

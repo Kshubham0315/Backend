@@ -1,0 +1,12 @@
+{
+  "requestId": "req_1775807871802_uwv7ig",
+  "createdAt": "2026-04-10T07:57:51.802Z",
+  "body": {
+    "message": "hi"
+  },
+  "detectedLanguageMode": "english",
+  "audioConfig": {
+    "voiceId": "Natalie",
+    "locale": "en-US"
+  }
+}

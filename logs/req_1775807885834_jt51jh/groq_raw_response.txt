@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "text": "Fever can be caused by many things, including infections or viruses. I'd like to know more about your symptoms.",
+      "facialExpression": "default",
+      "animation": "Talking_0"
+    },
+    {
+      "text": "It's possible you might have a common cold, flu, or something else. Have you experienced any other symptoms like headache or body ache?",
+      "facialExpression": "default",
+      "animation": "Talking_1"
+    },
+    {
+      "text": "To manage your fever, you can try drinking plenty of fluids and taking medication like paracetamol. However, please consult a qualified doctor for a proper diagnosis and treatment plan.",
+      "facialExpression": "smile",
+      "animation": "Talking_2"
+    }
+  ]
+}

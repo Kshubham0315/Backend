@@ -1,0 +1,12 @@
+{
+  "requestId": "req_1775806574749_c4kahi",
+  "createdAt": "2026-04-10T07:36:14.749Z",
+  "body": {
+    "message": "hii muje fever hai"
+  },
+  "detectedLanguageMode": "hindi",
+  "audioConfig": {
+    "voiceId": "Natalie",
+    "locale": "hi-IN"
+  }
+}

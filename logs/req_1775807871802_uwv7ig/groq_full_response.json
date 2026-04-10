@@ -1,0 +1,16 @@
+{
+  "requestId": "req_1775807871802_uwv7ig",
+  "createdAt": "2026-04-10T07:57:52.562Z",
+  "userMessage": "hi",
+  "hasMedicalImage": false,
+  "imageContext": "",
+  "languageMode": "english",
+  "rawGroqResponse": "{\n  \"messages\": [\n    {\n      \"text\": \"Hello, how can I assist you today?\",\n      \"facialExpression\": \"default\",\n      \"animation\": \"Talking_0\"\n    }\n  ]\n}",
+  "parsedMessages": [
+    {
+      "text": "Hello, how can I assist you today?",
+      "facialExpression": "default",
+      "animation": "Talking_0"
+    }
+  ]
+}

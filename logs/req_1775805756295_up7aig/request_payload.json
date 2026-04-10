@@ -1,0 +1,14 @@
+{
+  "requestId": "req_1775805756295_up7aig",
+  "createdAt": "2026-04-10T07:22:36.296Z",
+  "body": {
+    "message": "I have fever",
+    "hasMedicalImage": false,
+    "imageContext": ""
+  },
+  "detectedLanguageMode": "english",
+  "audioConfig": {
+    "voiceId": "Natalie",
+    "locale": "en-US"
+  }
+}
